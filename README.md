@@ -12,6 +12,6 @@ I have also done some little office automation tools with Python.
      - Email: thiagofcabrera00@gmail.com
      - Telegram: @ikiusen
 
-- I'm always open for new opportunities them being job related or learning related. 
+- I'm always open for new possible opportunities and challenges. 
 
 
