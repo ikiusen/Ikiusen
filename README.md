@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there! 👋
 
-<!--
-**ikiusen/Ikiusen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Thiago, I'm 21yrs old and I am a System Analyst Student. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a textile company in the IT department. 
+Developing internal systems using Visual Basic .Net and SQL. 
+I have also done some little office automation tools with Python. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning C++, Python, OOP. 
+
+- 📫 How to reach me:
+     - Email: thiagofcabrera00@gmail.com
+     - Telegram: @ikiusen
+
+- I'm always open for new opportunities them being job related or learning related. 
+
+
