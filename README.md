@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm Thiago, I'm 21yrs old and I am a System Analyst Student. 
+I'm Thiago, I'm 22yrs old and I am a System Analyst Student. 
 
 - 🌱 I’m currently learning C++, Python, OOP. 
 
