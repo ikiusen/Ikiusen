@@ -1,8 +1,8 @@
 ### Hello there! 👋
 
-I'm Thiago, I'm 22yrs old and I am a System Analyst Student. 
+I'm Thiago, I'm 22 years old and I'm a System Analyst Student. 
 
-- 🌱 I’m currently learning C++, Python, OOP. 
+- 🌱 I’m currently learning C++, JavaScriṕt and Python. 
 
 - 📫 How to reach me:
      - Email: thiagofcabrera00@gmail.com
