@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm Thiago, I'm 22 years old and I'm a System Analyst student. 
+I'm Thiago, I'm 22 years old and I'm a System Analyst. 
 
 Here you'll find mostly code made while studing, in the future I'll try to start making some personal projects.
 
