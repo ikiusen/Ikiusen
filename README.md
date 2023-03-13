@@ -28,8 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikiusen&show_icons=true&locale=en&theme=github_dark" alt="ikiusen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ikiusen&theme=github-dark&border_radius=4" alt="ikiusen" /></p>
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/tcabrera00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tcabrera00" height="30" width="40" /></a>
