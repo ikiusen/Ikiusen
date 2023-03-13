@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **thiagofcabrera00@gmail.com**
 
-- ⚡ Fun fact **I love Star Wars**
+- ⚡ Fun fact: **I love Star Wars**
 
 <h2 align="center">Programming Languages</h2>
 <p align="center">
@@ -23,6 +23,12 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikiusen&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="ikiusen" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikiusen&show_icons=true&locale=en&theme=github_dark" alt="ikiusen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ikiusen&theme=github-dark&border_radius=4" alt="ikiusen" /></p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
