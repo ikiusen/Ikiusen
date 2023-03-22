@@ -1,4 +1,4 @@
-<h1 align="center">Hello there!👋, I'm Thiago</h1>
+<h1 align="center">Hello there!, I'm Thiago</h1>
 <h3 align="center">A passionate software developer from Argentina</h3>
 
 - 🔭 I’m currently working as Software Developer at [Cooperativa Batan](https://www.linkedin.com/company/coopbatan/)
